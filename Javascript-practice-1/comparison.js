@@ -10,7 +10,7 @@ console.log(100 <= 15);
 var applePrice = 250;
 var orangePrice = 300;
 console.log(applePrice > orangePrice);
- if(10<20){
+ if(10 < 20){
     console.log("I have a smaller value");
  }
  var weight = 40;
