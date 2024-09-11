@@ -19,5 +19,5 @@ console.log(apps.join('+'));
 console.log(string.concat(apps));
 console.log(Array.isArray(apps));
 console.log(Array.isArray('[]'));
-console.log(apps.slice(0,2));
-console.log(apps.splice(0,1));
+console.log(apps.slice(0,2));// o index theke suru kore 2 index er ag porjonto 
+console.log(apps.splice(0,1));// o index theke 1 ta katbe
